@@ -4,7 +4,7 @@
 
 ```
 
-# Capture with "k" key exit with "q" key
+# Capture dataset with "k" key exit with "q" key
 python3 build_face_dataset.py --cascade haarcascade_frontalface_default.xml \		
 	--output dataset/ton
 
