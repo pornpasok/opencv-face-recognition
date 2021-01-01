@@ -1,6 +1,6 @@
 # opencv-face-recognition
 
-![Output]!(ton_detect.png)
+![Output](ton_detect.png)
 
 ```
 
